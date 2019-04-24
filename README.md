@@ -27,5 +27,5 @@
 
 ## Docs
 
-- [Storybook](https://BlueBaseJS.github.io/plugin-victory-charts/storybook/)
-- [API Docs](https://BlueBaseJS.github.io/plugin-victory-charts/)
+-[Storybook](https://BlueBaseJS.github.io/plugin-victory-charts/storybook/)
+-[API Docs](https://BlueBaseJS.github.io/plugin-victory-charts/)
