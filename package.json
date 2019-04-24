@@ -1,12 +1,12 @@
 {
   "name": "@bluebase/plugin-victory-charts",
-  "description": "Bluebase plugin for victory charts",
+  "description": "bluebase plugin for displaying victory charts",
   "author": "BlueEast Team <code@blueeast.com>",
   "version": "0.0.1",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "module": "dist/index.js",
-  "repository": "https://github.com/BluebaseJS/plugin-victory-charts",
+  "repository": "https://github.com/BlueBaseJS/plugin-victory-charts",
   "license": "MIT",
   "keywords": [],
   "config": {},
@@ -78,7 +78,9 @@
   "dependencies": {
     "deepmerge": "^3.2.0",
     "react-native": "^0.57.8",
-    "tslib": "^1.9.3"
+    "tslib": "^1.9.3",
+    "victory": "^32.2.0",
+    "victory-native": "^32.0.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
@@ -100,6 +102,7 @@
     "@types/react-test-renderer": "^16.8.1",
     "@types/storybook__addon-info": "^4.1.0",
     "@types/storybook__addon-knobs": "^4.0.3",
+    "@types/victory": "^31.0.15",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^24.3.1",
     "babel-loader": "^8.0.5",

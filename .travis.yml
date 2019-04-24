@@ -9,7 +9,7 @@ node_js:
   - lts/*
 script:
   -  yarn run test
-  -  yarn run report-coverage
+  # -  yarn run report-coverage
   -  yarn run build
   -  yarn run size
 before_install:
