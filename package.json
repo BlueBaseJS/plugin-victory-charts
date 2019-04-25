@@ -106,6 +106,7 @@
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^24.3.1",
     "babel-loader": "^8.0.5",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-expo": "^5.0.0",
     "codacy-coverage": "^3.4.0",
     "codecov": "^3.2.0",

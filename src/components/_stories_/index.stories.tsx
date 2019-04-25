@@ -4,7 +4,7 @@ import * as React from 'react';
 import storiesOf, { BlueRainDecorator, bluerainStory } from '@blueeast/bluerain-storybook-addon';
 //import { BlueRain } from '@blueeast/bluerain-os';
 // import { boolean, number, text, withKnobs } from '@storybook/addon-knobs/react';
-import { VictoryChart, VictoryBar, VictoryTooltip, VictoryStack, VictoryArea, VictoryBrushContainer, VictoryVoronoiContainer, VictoryLine, VictoryAxis } from './components'
+import { VictoryChart, VictoryBar, VictoryTooltip, VictoryStack, VictoryArea, VictoryBrushContainer, VictoryVoronoiContainer, VictoryLine, VictoryAxis } from '..'
 // Add BlueRain
 // tslint:disable-next-line:no-var-requires
 import BR from '@blueeast/bluerain-os';
