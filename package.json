@@ -95,7 +95,7 @@
     "@storybook/addon-actions": "^5.0.10",
     "@storybook/addon-info": "^5.0.10",
     "@storybook/addon-knobs": "^5.0.10",
-    "@storybook/addon-links": "^5.0.10",
+    "@storybook/addon-links": "^6.1.12",
     "@storybook/addon-viewport": "^5.0.10",
     "@storybook/react": "^5.0.10",
     "@types/deepmerge": "^2.2.0",
